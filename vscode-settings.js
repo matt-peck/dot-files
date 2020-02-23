@@ -11,7 +11,6 @@
   "editor.cursorWidth": 5,
   "editor.cursorStyle": "line",
   "editor.wordWrap": "on",
-  "editor.multiCursorModifier": "ctrlCmd",
   "editor.fontWeight": "400",
   "editor.cursorBlinking": "solid",
   "editor.colorDecorators": false,
