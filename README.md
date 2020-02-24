@@ -4,3 +4,5 @@
 [ESLint Guide](https://blog.geographer.fr/eslint-guide)
 
 [Extend Create-React-App ESLint](https://medium.com/@pppped/extend-create-react-app-with-airbnbs-eslint-config-prettier-flow-and-react-testing-library-96627e9a9672)
+
+[Husky + Prettier Quick](https://prettier.io/docs/en/precommit.html)
