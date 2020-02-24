@@ -1,14 +1,15 @@
 {
   "extends": [
     "react-app", // extend create-react-app base esling configuration
-    "airbnb-base", 
-    "airbnb/rules/react", 
-    "airbnb/hooks", 
-    "prettier", 
+    "airbnb-base",
+    "airbnb/rules/react",
+    "airbnb/hooks",
+    "prettier",
     "prettier/react"
   ],
   "plugins": ["prettier"],
   "rules": {
+    "react/prop-types": 0,
     "react/jsx-filename-extension": [
       1,
       {
@@ -22,5 +23,11 @@
     "ecmaFeatures": {
       "jsx": true
     }
+  },
+  "settings": {
+    "import/resolver": {
+      "alias": []
+    }
   }
 }
+
