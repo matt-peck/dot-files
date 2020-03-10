@@ -21,15 +21,6 @@
   "html.format.enable": true,
   "html.format.preserveNewLines": true,
   "files.trimTrailingWhitespace": true,
-  // "prettier.prettierPath": "/usr/local/lib/node_modules/prettier",
-  // "editor.defaultFormatter": "esbenp.prettier-vscode",
-  // "[javascript]": {
-  //   "editor.defaultFormatter": "esbenp.prettier-vscode"
-  // },
-  // "[javascript]": {
-  //   "editor.formatOnSave": false
-  // },
-  // "prettier.disableLanguages": ["js"],
   /*************  END LINTING / FORMATTING **************/
   /******************  THEME / STYLING ******************/
   "workbench.colorTheme": "Cobalt2",
