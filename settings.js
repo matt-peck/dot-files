@@ -6,9 +6,9 @@
     "javascript",
     "javascriptreact",
   ],
-  "javascript.preferences.quoteStyle": "single",
+  "javascript.preferences.quoteStyle": "double",
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+    "source.fixAll.eslint": false
   },
   "eslint.alwaysShowStatus": true,
   "editor.autoIndent": "full",
