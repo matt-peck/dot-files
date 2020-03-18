@@ -8,7 +8,7 @@
   ],
   "javascript.preferences.quoteStyle": "double",
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": false
+    "source.fixAll.eslint": true
   },
   "eslint.alwaysShowStatus": true,
   "editor.autoIndent": "full",
