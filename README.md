@@ -8,7 +8,7 @@
 [Husky + Prettier Quick](https://prettier.io/docs/en/precommit.html)
 
 ### VS Code Extensions
-* Auto CLose Tag
+* Auto Close Tag
 * Auto Rename Tag
 * Better Comments
 * Bracket Pair Colorizer 2
@@ -22,8 +22,6 @@
 * Import Cost
 * Live Share
 * open in browser
-* Polacode
 * Prettier
-* Rainbow Brackets
 * Version Lens
 * vscode-styled-components
